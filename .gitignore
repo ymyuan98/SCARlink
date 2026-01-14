@@ -12,3 +12,4 @@ scarlink/src/model_new.py
 scarlink/preprocessing/read_scanpy_test.py
 scarlink/preprocessing/read_seurat_archr_bak*.R
 scarlink/preprocessing/read_seurat_archr_downsampled.R
+/notebooks/pbmc_test/scarlink_out
