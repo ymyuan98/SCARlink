@@ -15,3 +15,4 @@ scarlink/preprocessing/read_seurat_archr_downsampled.R
 /notebooks/pbmc_test/scarlink_out
 /notebooks/pbmc_test_input
 /notebooks/pbmc_test
+.DS_Store
